@@ -1,0 +1,4 @@
+
+#ifdhal.suharmitan
+
+ Pada task OS week00 kita diinstruksikan untuk membuat akun google dan github yang akan diintegrasikan ke server badak sehingga selanjutnya akun-akun tsb dapat digunakan pada lab OS kedepannya.
