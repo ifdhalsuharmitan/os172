@@ -1,3 +1,3 @@
 #ifdhalsuharmitan
 
-Pada lab OS week01 ini kita dilatih untuk clone repository dari git kemudian di server badak kita kita diinstruksikan untuk merancang, membuat, menghapus, serta mengelola file yang ada di directory os172 untuk dipakai pada lab berikutnya. Kemudian kita juga praktek mengenai CLI dan scripting sederhana sebagai penghantar topik scripting di mata kuliah OS.
+Menurut saya mengapa kita harus mempelajari Sistem Operasi karena dengan kita mempelajari Sistem Operasi kita dapat memahami bagaimana suatu sistem operasi dalam komputer itu berjalan dan dengan komponen dan keamanan apa saja yang digunakan sehingga sistem operasi tersebut berjalan baik. Selain itu kita juga dapat memahami bagaimana suatu sistem operasi dapat mengelola alur dari suatu instruksi komputer agar instruksi tersebut sesuai alurnya dengan apa yang user kehendaki dan tidak ada bentrok dalam alur tersebut. 
