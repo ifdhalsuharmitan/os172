@@ -1,0 +1,4 @@
+
+#ifdhalsuharmitan
+
+Pada lab OS week01 minggu ini kita dilatih untuk melakukan clone repository dari git ke server badak dan kemudian di server badak kita akan mengelola file-file yang akan kita gunakan pada lab berikutnya dalam directory os172. Selain itu kita juga dilatih untuk memahami penggunaan CLI dan pembuatan scripting sebagai pengantar untuk topik scripting pada mata kuliah OS. 
