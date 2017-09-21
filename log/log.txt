@@ -14,3 +14,20 @@ w01-170905-16-LR-Learning HKI & Scripting from Lecturer
 w01-170905-16-LR-Learning HKI & Scripting from Lecturer
 w01-170905-17-PS-Practice Scripting from Lecturer
 w01-170907-11-PS-Doing Log Task
+
+w02-170912-16-PS-Review Scripting from Lecturer
+w02-170912-16-LR-Learning Protection & Security from Lecturer
+w02-170912-17-LR-Learning Protection & Security from Lecturer
+w02-170914-16-LR-Learning Protection & Security from Lecturer
+w02-170914-16-LR-Learning Code C Language Programming from Lecturer
+w02-170914-17-PS-Practice Code C Language Programming
+w02-170914-11-PS-Doing Weekly Task
+w02-170916-11-PS-Doing Weekly Task
+w02-170916-14-PS-Doing Log Task
+
+
+
+
+
+
+
