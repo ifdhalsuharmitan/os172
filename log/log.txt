@@ -20,9 +20,6 @@ w02-170912-16-LR-Learning Protection & Security from Lecturer
 w02-170912-17-LR-Learning Protection & Security from Lecturer
 w02-170914-16-LR-Learning Protection & Security from Lecturer
 w02-170914-16-LR-Learning Code C Language Programming from Lecturer
-w02-170914-17-PS-Practice Code C Language Programming
-w02-170914-11-PS-Doing Weekly Task
-w02-170916-11-PS-Doing Weekly Task
 w02-170916-14-PS-Doing Log Task
 
 w03-170919-16-LR-Learning UEFI & BIOS from Lecturer
@@ -45,8 +42,27 @@ w04-170929-21-PS-Doing Weekly task
 w04-170929-22-PS-Doing Weekly task
 w04-170929-22-PS-Doing Log Task
 
-
-
+w05-171003-16-LR-Learning Binding Virtual Memory from Lecturer
+w05-171003-16-LR-Learning Binding Virtual Memory from Lecturer
+w05-171003-17-LR-Learning Binding Virtual Memory from Lecturer
+w05-171005-16-LR-Learning Change Virtual Memory to Physical Memory from Lecturer
+w05-171005-16-LR-Learning Change Virtual Memory to Physical Memory from Lecturerw05-171005-17-LR-Learning Change Virtual Memory to Physical Memory from Lecturerw05-171010-16-LR-Learning Page Table and Fragmentation from Lecturer
+w05-171010-16-LR-Learning Page Table and Fragmentation from Lecturer
+w05-171010-17-LR-Learning Page Table and Fragmentation from Lecturer
+w05-171012-16-PS-Quiz from Lecturer
+w05-171012-16-PS-Quiz from Lecturer
+w05-171012-17-PS-Quiz from Lecturer
+w05-171012-21-PS-Doing Weekly task
+w05-171012-21-PS-Doing Weekly task
+w05-171012-22-PS-Doing Weekly task
+w05-171012-22-PS-Doing Weekly task
+w05-171013-20-PS-Doing Weekly task 
+w05-171013-20-PS-Doing Weekly task
+w05-171013-20-PS-Doing Weekly task
+w05-171013-21-PS-Doing Weekly task
+w05-171013-21-PS-Doing Weekly task
+w05-171014-11-PS-Doing Log task
+w05-171014-11-PS-Doing Log task
 
 
 
